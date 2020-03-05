@@ -1,5 +1,5 @@
 TheMermaidsRush
-===============
+================
 
 Game made as a visual programming project
 The Mermaid`s Rush
